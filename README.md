@@ -2,6 +2,7 @@
 Before making any changes, clone the repository to your local machine:
 
 git clone https://github.com/profmanjupriya/PyBootcampHW.git
+
 cd PyBootcampHW
 
 2. Create and Switch to Your Own Branch
