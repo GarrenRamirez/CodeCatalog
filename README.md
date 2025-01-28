@@ -11,6 +11,7 @@ Each student should create a new branch using their lastname_firstname to avoid 
 git checkout -b lastname_firstname
 
 Example: If your name is John Doe, you can create a branch like this:
+
 git checkout -b doe_john
 
  3. Add Your Work
